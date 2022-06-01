@@ -1,0 +1,18 @@
+/*família de fontes: 'Public Sans', sem serifa;
+font-family: 'Justo', cursiva*/
+@import url('https://fonts.googleapis.com/css2? família= Public+Sans:ital,wght@0,100;0,300;0,700;1,400 &family= Justo & display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Justo', cursiva;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+

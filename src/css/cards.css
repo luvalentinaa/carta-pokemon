@@ -1,0 +1,116 @@
+.cartao-pokemon {
+  width: 350px;
+  height: 500px;
+  box-shadow: 0px 7px 29px 0px #03685aef;
+  border-radius: 10px;
+  display: none;
+  border-bottom: #0b7059;
+}
+.cartao-pokemon .cartao-topo {
+  padding: 30px 40px 0;
+}
+.cartao-pokemon .nome {
+  margin-bottom: 5px;
+}
+.cartao-pokemon .tipo {
+  font-size: 12px;
+  background-color: #18c9b1fd;
+  opacity: 0.7;
+  border-radius: 10px;
+  padding: 5px 10px;
+  box-shadow: 0px 7px 29px 0px #03685aef;
+}
+.cartao-pokemon .detalhes {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cartao-pokemon .cartao-imagem {
+  width: 250px;
+  height: 200px;
+}
+.cartao-pokemon img {
+  max-height: 100%;
+}
+.cartao-pokemon .cartao-informacoes {
+  display: flex;
+  justify-content: space-between;
+  background-color: #faf8f8;
+  padding: 80px 30px 50px;
+  margin-top: -70px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.cartao-pokemon .cartao-informacoes h3 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  text-shadow: 1px 1px 2px #242323;
+  border-bottom: 1px solid #0e0d0d;
+}
+.cartao-pokemon .cartao-informacoes .status,
+.cartao-pokemon .cartao-informacoes .habilidades {
+  padding: 0 10px;
+  width: 180px;
+}
+.cartao-pokemon .cartao-informacoes .habilidades ul li,
+.cartao-pokemon .cartao-informacoes .status ul li {
+  color: #000;
+  font-weight: bold;
+  border-bottom: 1px solid #333030;
+  padding: 0 0 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+.cartao-pokemon.aberto {
+  display: block;
+}
+.tipo-fogo {
+  background-color: #ed8a8b;
+}
+.tipo-fogo h3{
+  color: #ed8a8b;
+}
+.tipo-eletrico {
+  background-color: #ecbb19;
+}
+.tipo-eletrico h3{
+  color:#f5b608 ;
+}
+.tipo-agua {
+  background-color: #2e94ec;
+}
+.tipo-agua h3{
+  color:#2e94ec;
+}
+.tipo-grama {
+  background-color: #0b7059;
+}
+.tipo-grama h3{
+  color: #0b7059;
+}
+.tipo-trevas {
+  background-color: #790596;
+}
+.tipo-trevas h3{
+  color: #790596;
+}
+.tipo-dragao {
+  background-color: #c24040;
+}
+.tipo-dragao h3{
+  color: #c24040;
+}
+.tipo-terra{
+  background-color: #752805;
+}
+.tipo-terra{
+  color:#752805;
+}
+
+.tipo-evolucao{
+  background-color: #f3b353;
+}
+.tipo-evolucao{
+  color:#e28923;
+}
