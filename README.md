@@ -2,7 +2,7 @@
 
   <img src="src/imagens/pokemon.png">
 
-<a href=" https://luvalentinaa.github.io/carta-pokemon/">Acesse no Github Pages 🔗</a>
+<a href="https://luvalentinaa.github.io/carta-pokemon/">Acesse no Github Pages 🔗</a>
 
    
 
